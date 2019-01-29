@@ -8,7 +8,7 @@ export default class BookStoreService {
         author: 'Susan J. Fowler'
       },
       {
-        id: 1,
+        id: 2,
         title: 'Release It!',
         author: 'Michael T. Nygard'
       }
