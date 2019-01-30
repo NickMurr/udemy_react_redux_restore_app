@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Playfair Display', serif;
+}
+
+@import './vendors/App';
+@import './vendors/components/BookList';
+@import './vendors/components/BookListItem';
+@import './vendors/layout/Navbar';
+@import './vendors/layout/ShopHeader';
+@import './vendors/layout/ErrorIndicator';
+@import './vendors/layout/ShoppingCartTable';
+@import './vendors/pages/Home';
+@import './vendors/pages/Cart';
